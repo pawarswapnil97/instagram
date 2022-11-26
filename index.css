@@ -1,0 +1,49 @@
+
+.img{
+  margin-left: 50px;
+  height: 35px;
+  margin-top: 10px;
+  float: left;
+}
+.pawar{
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   margin-left: 50px;
+   float: right;  
+   border: 3px solid rgb(237, 6, 144);  
+}
+.icon{
+  
+  margin-left: 70px;
+  
+}
+.icon1{
+  margin-left: 60px;
+}
+.next{
+  float: left;
+}
+.hed_div{
+ /* border: 5px black; */
+ border-radius: 10px 10px;
+
+}
+
+
+/* status */
+.hed_img{
+  height: 80px;
+  width: 80px;
+  margin-top: 5px;
+  margin-left: 12px; 
+  justify-content: center;
+  border: 3.5px solid rgb(237, 6, 144);
+}
+
+.logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 3px solid rgb(237, 6, 144);
+}
